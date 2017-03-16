@@ -4,7 +4,7 @@ import javax.jws.WebService;
 
 /**
  * @author wuliwei
- *
+ * 测试直接修改能成功吗
  */
 @WebService
 public interface Calculator {
